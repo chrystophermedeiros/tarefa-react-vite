@@ -58,7 +58,7 @@ export const Button = styled.button`
   background: #8052ec;
   color: #fff;
   text-align: center;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 900;
   line-height: 2.5px;
   width: 20%;
