@@ -86,6 +86,7 @@ export const ListItens = styled.div`
   padding: 0 20px;
   width: 100%;
   color: #ff0404;
+  background: ${(props) => (props.Concluido ? "#008000" : "#242424" )};
 
   li {
     list-style: none;
